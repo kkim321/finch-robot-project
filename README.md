@@ -117,4 +117,5 @@ If you complete your chosen challenge early, consider:
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
 
-<h1>Project description and objectives</h1>
+<h2>Project description and objectives</h2>
+This project
