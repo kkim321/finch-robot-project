@@ -118,4 +118,16 @@ If you complete your chosen challenge early, consider:
 - Adding an obstacle detection and avoidance system
 
 <h2>Project description and objectives</h2>
-This project
+For this project, we made our Finch robot draw a five point star and wanted it to successfully make the shape.
+
+<h2>Description of design choices</h2>
+We chose to make our robot draw a star because originally, we were thinking of making it draw a sqaure, but since we wanted to make it a little more challenging, we decided to choose a star. A star also looks better artistically.
+
+<h2>Challenges faced and solutions</h2>
+One challenge we faced was figuring out the directions and angles of each point of the star and because we couldn't make the robot draw the star as a whole completely, we decided to just program it to make it draw the lines of the star to overlap each other. ANother challenge we faced was that we wanted to try to expand the code and make the robot be able to draw different amount of points in a star. However, it was difficult to figure out the math for it accurately, so we weren't able to achieve what we wanted.
+
+<h2>Future Enhancements</h2>
+Some future enhancements would be to use more methods and add more qualities to the robot such as adding lights and a song to it. If there was more time, I would also try to complete the code of making the robot draw any number points of a star as well.
+
+<h2>Video</h2>
+[![Finch Robot](https://youtube.com/shorts/1ssnl0HI7qQ?feature=share)
